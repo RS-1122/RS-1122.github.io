@@ -17,5 +17,5 @@ Here is a link to my Github profile: https://github.com/RS-1122/RS-1122.github.i
   I thought that this was another fun lab to do because it help taught me how to write code for parking rules and using functions to implement the parking restrictions on some signs. I had to use functions like if-statements to validate the days, hours, and minutes of the restrictions on each parking sign. For me, the most challenging part of this lab was writing an if-statement for validating the day since I had to validate each day and then print out an error statement if it was an invalid day.  
 
 *Lab 8 part 2 
-
-  This was my favorite lab because in part 2 of this lab we got to write code so that we could create patterns using loop statements. In part 2 of this lab we had to use loop statements like for-loops so when the program was run it used bars ( | ) and dash ( - ) characters to help create patterns. For me, the most challenging part of this lab was being able to figure out the for-loops to use to print out the bars and dashes in the correct order. 
+   
+   This was my favorite lab because in part 2 of this lab we got to write code so that we could create patterns using loop statements. In part 2 of this lab we had to use loop statements like for-loops so when the program was run it used bars ( | ) and dash ( - ) characters to help create patterns. For me, the most challenging part of this lab was being able to figure out the for-loops to use to print out the bars and dashes in the correct order. 
