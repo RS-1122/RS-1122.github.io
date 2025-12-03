@@ -1,6 +1,6 @@
 # Ryan Shimoda's Portfolio
 
-I am an Electrical Engineering major at CSUF and I plan on graduating in 2026.
+I am an Electrical Engineering major at CSUF and I plan on graduating in 2027.
 
 # Github profile link
 
